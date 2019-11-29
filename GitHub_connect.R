@@ -22,3 +22,7 @@ $ git remote add origin https://github.com/cocoscodes/Temporary_add_to_version_c
 
 asolis@122BC-0RHW0D MINGW64 ~/Desktop/Temporary_add_to_version_control (master)
 $ git push -u origin master
+
+
+# cloning some else project from GitHub
+# file/new project/version control/Git/repository URL/create project
