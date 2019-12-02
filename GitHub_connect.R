@@ -2,12 +2,12 @@
 #1 select fil1/existing directory/new project/create the project
 #2 open Git Bash and enter the following code
 asolis@122BC-0RHW0D MINGW64 ~
-  $ pwd
+$ pwd
 /c/Users/asolis
 asolis@122BC-0RHW0D MINGW64 ~
-  $ cd ~/Desktop/
+$ cd ~/Desktop/
   
-  asolis@122BC-0RHW0D MINGW64 ~/Desktop
+asolis@122BC-0RHW0D MINGW64 ~/Desktop
 $ pwd
 /c/Users/asolis/Desktop
 asolis@122BC-0RHW0D MINGW64 ~/Desktop/Temporary_add_to_version_control
